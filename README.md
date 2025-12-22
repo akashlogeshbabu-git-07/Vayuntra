@@ -2,6 +2,8 @@
 
 **AI-driven threat detection engine** for proactive cybersecurity.
 
+My Project Vayuntra is an AI-driven cybersecurity application for proactive threat detection, zero-day defense, with automated incident remediation.
+
 ## Features (Phase 1)
 
 - ✅ Anomaly detection (Isolation Forest ML)
